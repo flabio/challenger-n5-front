@@ -128,6 +128,7 @@ const Vehiculos = () => {
                             name="persona"   
                             value={formState.persona}
                             onChange={onInputChange}>
+                            <option value="0">----</option>
                             {
                              personas&&  personas.map((p)=>(
                                 <option key={p.id} value={p.id}>{p.name}</option>
