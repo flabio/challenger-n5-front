@@ -13,7 +13,7 @@ paso 4
    cada link o el menu muestra la información de cada uno de los servicios del backend
    
     persona:
-    ![alt text](persona.png)
+     ![alt text](persona.png)
     
     vehiculo:
      ![alt text](vehiculo.png)
